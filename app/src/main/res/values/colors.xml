@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="main_white">#f4f4f4</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+
+    <color name="gray">#ccc</color>
+    <!--程序标题绿-->
+    <color name="title_blue">#0000FF</color>
+    <!--蓝色-->
+    <color name="blue">#019FE8</color>
+    <!--橘色-->
+    <color name="orange">#FE6800</color>
+    <!--橘红色-->
+    <color name="orange_red">#E9440F</color>
+    <!--背景间隙-->
+    <color name="bg_bgbg">#C0C0C0</color>
+</resources>

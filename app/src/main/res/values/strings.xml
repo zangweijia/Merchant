@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Merchant</string>
+
+
+    <!-- 主界面-->
+    <string name="show_mian">首页</string>
+    <string name="show_administrate">管理</string>
+    <string name="show_warehouse">仓库</string>
+    <string name="show_my">我的</string>
+    <string name="show_exit_hint">温馨提示</string>
+    <string name="show_exit_message">是否退出应用？</string>
+    <string name="show_exit_positive">确定</string>
+    <string name="show_exit_negative">取消</string>
+
+
+    <!--首页-->
+    <string name="main_tuijian">热卖推荐</string>
+</resources>
